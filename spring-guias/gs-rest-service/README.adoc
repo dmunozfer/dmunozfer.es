@@ -1,0 +1,2 @@
+# Building a RESTful Web Service
+Proyecto de ejemplo de servicios REST siguiendo la guía de spring.io https://spring.io/guides/gs/rest-service
