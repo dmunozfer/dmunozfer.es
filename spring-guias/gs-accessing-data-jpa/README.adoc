@@ -1,0 +1,2 @@
+Proyecto de ejemplo siguiendo la guía de Spring Data JPA
+http://spring.io/guides/gs/accessing-data-jpa/
